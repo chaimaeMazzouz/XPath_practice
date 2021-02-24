@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exmp.xsl"?>
+<repertoire>
+   <personne>
+      <nom>Adli</nom>
+      <prenom>Kamal</prenom>
+      <adresse>
+        <numero>7</numero>
+        <voie>impasse du chemin</voie>
+        <codePostal>75015</codePostal>
+        <ville>Marrakech</ville>
+        <pays>Maroc</pays>
+      </adresse>
+      <telephones>
+         <telephone type="fixe">05 55 66 77 88</telephone>
+         <telephone type="portable">05 44 33 77 88</telephone>
+      </telephones>
+      <emails>
+         <email type="personnel">adil.kamal@gmail.com</email>
+         <email type="professionnel">adil.kamal@societe.com</email>
+      </emails>
+   </personne>
+   <personne>
+      <nom>DAMIR</nom>
+      <prenom>IMAN</prenom>
+      <adresse>
+        <numero>28</numero>
+        <voie>Avenue Hassan 2</voie>
+        <codePostal>13005</codePostal>
+        <ville>Casa</ville>
+        <pays>Maroc</pays>
+      </adresse>
+      <telephones>
+         <telephone type="bureau">05 11 22 33 44</telephone>
+      </telephones>
+      <emails>
+         <email type="professionnel">contact@damir.fr</email>
+      </emails>
+   </personne>
+   <personne>
+      <nom>WAFDI</nom>
+      <prenom>SAMIR</prenom>
+      <adresse>
+        <numero>24</numero>
+        <voie>Avenue Allal Fasi</voie>
+        <codePostal>11004</codePostal>
+        <ville>Fes</ville>
+        <pays>Maroc</pays>
+      </adresse>
+      <telephones>
+         <telephone type="professionnel">05 23 33 33 33</telephone>
+      </telephones>
+   </personne>
+</repertoire>
